@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.github.hemantsonu20</groupId>
-  <artifactId>cric-poll</artifactId>
+  <artifactId>cric-poll-service</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <description>A cricket team management poll</description>
